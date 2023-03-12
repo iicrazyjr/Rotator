@@ -1,6 +1,6 @@
 # Rotator
 
-A python implementation for rotating strings and files using the cesar cipher
+A python implementation for rotating strings and files using the caesar cipher
 
 ## Usage/Examples
 You can use it with strings or files via parameters
